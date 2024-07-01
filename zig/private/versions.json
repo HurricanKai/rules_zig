@@ -1,5 +1,5 @@
 {
-  "0.14.0": {
+  "0.14.0-dev.130+cb308ba3a": {
     "x86_64-macos": {
       "tarball": "https://ziglang.org/builds/zig-macos-x86_64-0.14.0-dev.130+cb308ba3a.tar.xz",
       "shasum": "e9983b02f43bb77d4285d9d013b611afb1bc46366f60dd040260b5e9e654cb50",
